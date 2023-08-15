@@ -11,7 +11,7 @@ public class Zadatak7 {
         System.out.println("*             ___________________________       *");
         System.out.println("*  Email:    |                           |      *");
         System.out.println("*             ***************************       *");
-        System.out.println("*             ___________________________                                   *");
+        System.out.println("*             ___________________________       *");
         System.out.println("*  Password: |                        <> |      *");
         System.out.println("*             ***************************       *");
         System.out.println("*                                               *");
