@@ -1,4 +1,4 @@
-package d15_09_2023;
+package d15_09_2023.Zadatak1;
 
 public class Trener extends Osoba {
     private int godineIskustva;

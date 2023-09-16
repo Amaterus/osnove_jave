@@ -1,4 +1,4 @@
-package d15_09_2023;
+package d15_09_2023.Zadatak1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
