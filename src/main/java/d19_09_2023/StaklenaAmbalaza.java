@@ -6,8 +6,8 @@ public class StaklenaAmbalaza extends Ambalaza {
     private double osnovnaCena;
 
 
-    public StaklenaAmbalaza(double kaucija, boolean placaKauciju, double osnovnaCena) {
-        super();
+    public StaklenaAmbalaza(String barkod,String nazivArtikla,double netoTezina, double brutoTezina, double kaucija, boolean placaKauciju, double osnovnaCena) {
+        super(barkod, nazivArtikla, netoTezina, brutoTezina);
         this.kaucija = kaucija;
         this.placaKauciju = placaKauciju;
         this.osnovnaCena = osnovnaCena;

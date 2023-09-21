@@ -56,4 +56,5 @@ public abstract class Ambalaza {
     public abstract double vratiCenuArtikla();
 
     public abstract void stampaj();
+
 }

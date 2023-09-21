@@ -42,5 +42,6 @@ public class SuperKartica {
     public void stampaj() {
         System.out.println("(" + this.brojKartice + "), (" + this.imePrezimeVlasnika + ")");
     }
+
 }
 

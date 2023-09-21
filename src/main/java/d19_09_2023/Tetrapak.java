@@ -32,9 +32,9 @@ public class Tetrapak extends Ambalaza {
     @Override
     public double vratiCenuArtikla() {
         if (mozeReciklirati) {
-            return (racunajTezinuPakovanja() * 1.5) + osnovnaCena;
+            return (racunajTezinuPakovanja() * 1.5) + this.osnovnaCena;
         } else {
-            return osnovnaCena;
+            return this.osnovnaCena;
         }
     }
 
